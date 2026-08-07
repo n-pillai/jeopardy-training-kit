@@ -103,3 +103,14 @@ Every empirical or strategic claim in the kit is sourced. Key references:
 - [TheJeopardyFan.com](https://thejeopardyfan.com) and [The Final Wager](https://thefinalwager.com) — wagering strategy
 
 Full annotated list in `resources.md`.
+
+## License
+
+[MIT](LICENSE).
+
+The training material here is original prose synthesising publicly documented methods, with every
+source cited inline and in `resources.md`. No clues, questions, or other show material are
+reproduced.
+
+*Jeopardy!* is a trademark of Jeopardy Productions, Inc. This is an unaffiliated, unofficial fan
+preparation kit; the name is used only to identify the show it prepares for.
