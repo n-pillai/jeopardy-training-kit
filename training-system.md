@@ -6,7 +6,7 @@ This is a structured, day-by-day training system for an experienced trivia compe
 
 ## Weekly Cadence
 
-The schedule assumes training availability alternates on a roughly week-on/week-off pattern — for example, due to custody arrangements, travel, or other recurring schedule constraints — with work running standard weekday hours. Training volume flexes around high- and low-availability weeks.
+The schedule assumes training availability alternates on a roughly week-on/week-off pattern — for example, due to alternating work travel, on-call weeks, or other recurring schedule constraints — with work running standard weekday hours. Training volume flexes around high- and low-availability weeks.
 
 ### High-Availability Week (Higher Volume)
 
