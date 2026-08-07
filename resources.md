@@ -100,7 +100,7 @@ This is an annotated ledger of every external resource referenced in the Jeopard
 - **Time investment:** 2–3 hours to read; ongoing practice to implement.
 - **Where it fits:** The theoretical foundation for all four drills in `drills/buzzer-drills.md`. Reaction-time benchmarks (228ms → 126ms) and grip/posture optimization are drawn directly from this book.
 
-### *Brainiac* — Ken Jennings (Scribner, 2006)
+### *Brainiac* — Ken Jennings (Villard, 2006)
 
 - **What it is:** Jennings' memoir covering his record 74-game winning streak, interwoven with a cultural history of trivia. More inspirational/contextual than practical — gives insight into the mindset and preparation habits of the most successful Jeopardy! contestant in history.
 - **Who it's for:** All levels. Good for motivation and understanding the competitive culture.
